@@ -2,31 +2,34 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Jamily Oliveira Carvalho, tenho 16 anos e sou natural de Sáo Paulo. estou cursando o ensino medio, com o curso de qualifica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Jamily Oliveira Carvalho, tenho 16 anos,
+Nasci e moro em São Paulo SP
+Estou cursando o 2 ano do ensino medio, com o curso de qualificação profissional.
+Amo fazer nada, ficar deitada escutando músicas ou dormindo   
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@Jamilycarvalho?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.youtube.com/@jamily01___">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/jamily?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/milly?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/milly?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -163,14 +166,14 @@ Me chamo Jamily Oliveira Carvalho, tenho 16 anos e sou natural de Sáo Paulo. es
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jamily&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamily&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
